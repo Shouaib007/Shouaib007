@@ -1,0 +1,4 @@
+-  Hi, I’m @Shouaib007.
+-  I’m interested in Web development.
+-  I’m currently learning python and Visual basic.
+- Im stil studying at school and currently doing AS level.
